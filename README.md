@@ -1,5 +1,5 @@
 
-# Machine Learning Final Project
+# Anti-phishing
 
 ### 1. Introduction
 Nowadays, our lives could not do without Internet. As the technology advances, a lot of problems regarding the convenience that the Internet brings have popped up. One of the prevailng problems is the emergence of phishing websites, which could simply be a disturbing site or a fatal zone that makes a person bankrupt through a night. Therefore, if there is a way to distinguish those phishing websites from safe ones, people can surf the Internet with more relief. Combining the technique in machine learning with such a useful topic, I would say that a safer online environment is foreseealbe.
@@ -9,7 +9,7 @@ Nowadays, our lives could not do without Internet. As the technology advances, a
     * Train models so that they could tell phishing websites from normal ones
 
 ### 2. Data Collection
-* 
+* https://archive.ics.uci.edu/ml/datasets/phishing+websites
 * Data format
     * 11055 instances
     * 30 columns
